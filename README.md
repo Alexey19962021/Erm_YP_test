@@ -3,6 +3,6 @@
 
 | № | project_name | description | stack |
 |---|--------------|-------------|------|
-| 1    | Cell 2   | Cell 3   | python |
+| 1    | Erm_EDA_apartments   | Cell 3   | python |
 | 2    | Cell 5   | Cell 6   | |
 | 3    | Cell 8   | Cell 9   | |
