@@ -1,1 +1,6 @@
-Project summarizes knowledge gained in the first module. We conducted a research analysis of game sales in different regions
+В целом этот проекта  был достатточно объемным и включал в себя разные хадачи из первого модуля. Нам было необходимо исследовать данные о продажах игр в нескольких регионах до 2017 года и в итоге проверить две гипотезы.
+
+Также мы закрепили следующие навыки:
+- выполнение предобработки данных (.fillna(), .drop_duplicates(), isna(), срезы в pandas);
+- основные интсрументы и возможности matplotlib, seaborn, средств pandas для визуализации;
+- проверку гипотез.
