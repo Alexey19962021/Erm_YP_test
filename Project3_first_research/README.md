@@ -1,6 +1,7 @@
-In this project, a research analysis of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years has been carried out.
+В данном проекте выполнен исследовательский анализ продаж квартир в Санкт-Петербурге и прилегающих населенных пунктах
 
-We have studied:
-- matplotlib possibilities for researchs: boxplots, histograms, bars plots;
-- data correlation.
-Also we made various conclusions on the slices of the tables, grouping.
+В этом проекте (модуле) изучались: 
+- pandas, предобработка данных;
+- matplotlib для исследований: boxplots, histograms, bars plots;
+- корреляция данных  и в целом нахождение зависимостей;
+Также актвино использовалась группировка данных, агрегирующие функции, срезы таблиц.
