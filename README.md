@@ -3,6 +3,6 @@
 
 | № | project_name | description | stack |
 |---|--------------|-------------|------|
-| 1    | Erm_EDA_apartments   | Cell 3   | python |
-| 2    | Cell 5   | Cell 6   | |
-| 3    | Cell 8   | Cell 9   | |
+| 4    | Erm_EDA_apartments   | Предобработка, исследовательский анализ данных о продаже квартир, определение основных закономерностей   | pandas, matplotlib |
+| 5    | Erm_EDA_games  |  Предобработка, проведение исследовательского анализа о продаже игр в разных регионах, составление портрета пользователя, проверка статистических гипотез  | pandas, numpy, matplotlib, scipy, seaborn |
+| 7    | Erm_сustomers_outflow    | Прогнозирование оттока клиентов банка   | pandas, sklearn, matplotlib, imblearn |
