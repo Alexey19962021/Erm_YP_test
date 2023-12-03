@@ -8,3 +8,4 @@
 | 4    | Erm_EDA_apartments   | Предобработка, исследовательский анализ данных о продаже квартир, определение основных закономерностей   | pandas, matplotlib |
 | 5    | Erm_EDA_games  |  Предобработка, проведение исследовательского анализа о продаже игр в разных регионах, составление портрета пользователя, проверка статистических гипотез  | pandas, numpy, matplotlib, scipy, seaborn |
 | 7    | Erm_сustomers_outflow    | Прогнозирование оттока клиентов банка   | pandas, sklearn, matplotlib, imblearn |
+| 9    | Erm_gold_ore_enrichment  | Прогнозирование коэффициента восстановления золота | pandas, numpy, matplotlib, sklearn, tqdm |
