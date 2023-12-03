@@ -9,3 +9,4 @@
 | 5    | Erm_EDA_games  |  Предобработка, проведение исследовательского анализа о продаже игр в разных регионах, составление портрета пользователя, проверка статистических гипотез  | pandas, numpy, matplotlib, scipy, seaborn |
 | 7    | Erm_сustomers_outflow    | Прогнозирование оттока клиентов банка   | pandas, sklearn, matplotlib, imblearn |
 | 9    | Erm_gold_ore_enrichment  | Прогнозирование коэффициента восстановления золота | pandas, numpy, matplotlib, sklearn, tqdm |
+| 14   | Erm_SQL_tasks_YP         | Решение задач, представляющие собой запросы для определенной базы данных | SQL, PostgreSQL     |
