@@ -5,7 +5,7 @@
 
 | № | project_name | description | stack |
 |---|--------------|-------------|------|
-| 4    | [Исследовательский анализ данных (объявления о продаже квартир)][Erm_EDA_apartment](https://github.com/Alexey19962021/Erm_YP_test/blob/main/Project3_first_research/Erm_EDA_apartments.ipynb "нажмите для перехода к тетрадке с проектом")   | Предобработка, исследовательский анализ данных о продаже квартир, определение основных закономерностей   | pandas, matplotlib |
+| 4    | [Исследовательский анализ данных (объявления о продаже квартир)](https://github.com/Alexey19962021/Erm_YP_test/blob/main/Project3_first_research/Erm_EDA_apartments.ipynb "нажмите для перехода к тетрадке с проектом")   | Предобработка, исследовательский анализ данных о продаже квартир, определение основных закономерностей   | pandas, matplotlib |
 | 5    | Erm_EDA_games  |  Предобработка, проведение исследовательского анализа о продаже игр в разных регионах, составление портрета пользователя, проверка статистических гипотез  | pandas, numpy, matplotlib, scipy, seaborn |
 | 7    | Erm_сustomers_outflow    | Прогнозирование оттока клиентов банка   | pandas, sklearn, matplotlib, imblearn |
 | 9    | Erm_gold_ore_enrichment  | Прогнозирование коэффициента восстановления золота | pandas, numpy, matplotlib, sklearn, tqdm |
